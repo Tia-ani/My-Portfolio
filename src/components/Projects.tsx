@@ -20,7 +20,7 @@ const Projects = () => {
       title: "Wordle-Game",
       description: "Developed an interactive Wordle-style game with real-time feedback, state management, and responsive UI.",
       technologies: ["HTML", "CSS", "JS", "TS", "React"],
-      image: "/lovable-uploads/42609cbf-0578-4ec1-803d-dccc6877a6e2.png",
+      image: "/images/Wordly.png",
       liveUrl: "https://wordly-wonders-react-fhsx.vercel.app/",
       githubUrl: "https://github.com/Tia-ani/wordly-wonders-react",
       featured: true
@@ -30,18 +30,49 @@ const Projects = () => {
       title: "ESSENCE",
       description: "Wedding destination planner with search & filtering functionality.",
       technologies: ["HTML", "CSS", "JavaScript"],
-      image: "/lovable-uploads/23176201-dfa8-452b-b489-33adb4f76044.png",
+      image: "/images/Essence.png",
       liveUrl: "https://cheerful-jalebi-c14db7.netlify.app/",
-      githubUrl: "https://github.com/Maxiemad/ESSENCE"
+      githubUrl: "https://github.com/Maxiemad/ESSENCE",
+      featured: true
     },
     {
       id: "3",
       title: "Ethereal Love",
       description: "A heartwarming exploration of mystical love theories from around the world, blending cultural traditions, spiritual beliefs, and cosmic signs that celebrate the magic of connection.",
       technologies: ["HTML", "CSS", "JS", "TS", "React"],
-      image: "/lovable-uploads/03f84b07-8170-46e2-8ba5-d12afad39a65.png",
+      image: "/images/Ethereal_Love.png",
       liveUrl: "https://starlit-brioche-44905c.netlify.app/",
       githubUrl: "https://github.com/Tia-ani/Love",
+      featured: true
+    },
+    {
+      id: "4",
+      title: "SkillSync",
+      description: "A skill tracking and learning progress application with dashboard analytics and task management capabilities.",
+      technologies: ["JavaScript", "React","TailwindCSS","Next.js"],
+      image: "/images/SkillSync.png",
+      liveUrl: "https://skill-sync-eta.vercel.app/",
+      githubUrl: "https://github.com/Tia-ani/SkillSync",
+      featured: true
+    },
+    {
+      id: "5",
+      title: "Cryptocurrency Tracker",
+      description: "Build a cryptocurrency tracker for a company 'XivTech'.",
+      technologies: ["JavaScript", "TailwindCSS", "React","Next.js"],
+      image: "/images/Crypto.png",
+      liveUrl: "https://cryptotra.netlify.app/",
+      githubUrl: "https://github.com/Tia-ani/Crypto",
+      featured: true
+    },
+    {
+      id: "6",
+      title: "LinkUp.AI",
+      description: "Built an AI-powered platform “LinkUp.AI” to help students create structured academic portfolios, generate resumes, and showcase achievements.",
+      technologies: ["JavaScript","React","Node.js","Firebase","OpenAI"],
+      image: "/images/LinkUp.AI_page.png",
+      liveUrl: "https://link-upfork-one.vercel.app/",
+      githubUrl: "https://github.com/Tia-ani/LinkUp.AI",
       featured: true
     }
   ];
