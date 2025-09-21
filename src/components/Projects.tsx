@@ -60,7 +60,7 @@ const Projects = () => {
       title: "Cryptocurrency Tracker",
       description: "Build a cryptocurrency tracker for a company 'XivTech'.",
       technologies: ["JavaScript", "TailwindCSS", "React","Next.js"],
-      image: "/images/Crypto.png",
+      image: "/images/Crypto_page.png",
       liveUrl: "https://cryptotra.netlify.app/",
       githubUrl: "https://github.com/Tia-ani/Crypto",
       featured: true
