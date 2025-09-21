@@ -71,7 +71,7 @@ const Hero = () => {
                 className="relative z-10"
               >
                 <img 
-                  src="/lovable-uploads/f436024d-8d49-45b4-a01d-149ee7fee4ae.png" 
+                  src="/images/me.png" 
                   alt="Anishka Khurana" 
                   className="rounded-xl object-cover"
                 />
